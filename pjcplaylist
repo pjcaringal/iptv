@@ -33,7 +33,8 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
 #EXTINF: -1 group-title="Ungrouped", CINEMO
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
-#EXTINF:-1,History HD (ENG)
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL_PLANET" tvg-logo="" group-title="SKY_UK",ANIMAL_PLANET
+http://clinetiptv.ddns.net:8000/live/active/active/683.m3u8#EXTINF:-1,History HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
 #EXTINF:-1,NATGEO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
