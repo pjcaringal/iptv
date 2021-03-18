@@ -1,10 +1,6 @@
 #EXTM3U 
-#EXTINF: -1 group-title="Ungrouped", Animal PLanet
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2952
-#EXTINF:-1,USA | A&E HD
-http://cableking-iptv.com:8000/live/francesco/francesco/18458.ts
-#EXTINF:-1,USA | ANIMAL PLANET
-http://cableking-iptv.com:8000/live/francesco/francesco/18442.ts
+#EXTINF:0 tvg-name="Animal Planet Live" tvg-language="English" tvg-country="US" tvg-id="Animal Planet Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNOZ8YNxtkqlITEqa1sJJ2HzWWJo3cbIJf2WsTV73Z3Hl3xJaU7u8VVA" group-title="Documentary",Animal Planet Live (Documentary) (US) (English)
+http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 
 #EXTINF: -1 group-title="Ungrouped", GMA 7
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
