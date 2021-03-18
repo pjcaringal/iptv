@@ -24,6 +24,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b22064
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/2000?cb=20160824071938" group-title="Local",Jeepney TV
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="Kids",ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jgky5WK/New-Project.png" group-title="Local",DepEd TV
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
