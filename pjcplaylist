@@ -1,26 +1,16 @@
 #EXTM3U 
-#EXTINF: -1 group-title="Ungrouped", IBC 13
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/98.m3u8
 #EXTINF: -1 group-title="Ungrouped", GMA 7
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
 #EXTINF: -1 group-title="Ungrouped", KAPAMILYA
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
-#EXTINF: -1 group-title="Ungrouped", PTV
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/101.m3u8
 #EXTINF: -1 group-title="Ungrouped", ABC 5
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/102.m3u8
-#EXTINF: -1 group-title="Ungrouped", ANC
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
-#EXTINF: -1 group-title="Ungrouped", CNN PH
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/104.m3u8
-#EXTINF: -1 group-title="Ungrouped", A2Z
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
+#EXTINF: -1 group-title="Ungrouped", One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF: -1 group-title="Ungrouped", JEEPNEY TV
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
 #EXTINF: -1 group-title="Ungrouped", GMA NEWS TV
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
-#EXTINF: -1 group-title="Ungrouped", DZRH
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/108.m3u8
 #EXTINF: -1 group-title="Ungrouped", CINEMA 1
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
 #EXTINF: -1 group-title="Ungrouped", PBO
@@ -31,6 +21,26 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/111.m3u8
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/112.m3u8
 #EXTINF: -1 group-title="Ungrouped", HBO
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
+#EXTINF: -1 group-title="Ungrouped", PBA RUSH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
+#EXTINF: -1 group-title="Ungrouped", NBA TV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
+#EXTINF: -1 group-title="Ungrouped", DISNEY
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
+#EXTINF: -1 group-title="Ungrouped", CINEMO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
+#EXTINF: -1 group-title="Ungrouped", NAT GEO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
+#EXTINF: -1 group-title="Ungrouped", IBC 13
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/98.m3u8
+#EXTINF: -1 group-title="Ungrouped", PTV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/101.m3u8
+#EXTINF: -1 group-title="Ungrouped", ANC
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
+#EXTINF: -1 group-title="Ungrouped", CNN PH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/104.m3u8
+#EXTINF: -1 group-title="Ungrouped", Nickoledeon
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
 #EXTINF: -1 group-title="Ungrouped", ONE NEWS
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8
 #EXTINF: -1 group-title="Ungrouped", ONE PH
@@ -43,24 +53,14 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/117.m3u8
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
 #EXTINF: -1 group-title="Ungrouped", FOX SPORTS
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/119.m3u8
-#EXTINF: -1 group-title="Ungrouped", NBA TV
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
 #EXTINF: -1 group-title="Ungrouped", AXN
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/121.m3u8
-#EXTINF: -1 group-title="Ungrouped", PBA RUSH
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
 #EXTINF: -1 group-title="Ungrouped", SOLAR CHANNEL
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/123.m3u8
 #EXTINF: -1 group-title="Ungrouped", PINOY XTREME
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/124.m3u8
 #EXTINF: -1 group-title="Ungrouped", ANIMAX
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
-#EXTINF: -1 group-title="Ungrouped", DISNEY
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
-#EXTINF: -1 group-title="Ungrouped", CINEMO
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
-#EXTINF: -1 group-title="Ungrouped", NAT GEO
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
 #EXTINF: -1 group-title="Ungrouped", METROSTYLE
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/129.m3u8
 #EXTINF: -1 group-title="Ungrouped", ETC
@@ -85,3 +85,5 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/138.m3u8
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/139.m3u8
 #EXTINF: -1 group-title="Ungrouped", CNN
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/140.m3u8
+#EXTINF: -1 group-title="Ungrouped", DZRH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/108.m3u8
