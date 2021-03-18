@@ -1,14 +1,10 @@
 #EXTM3U 
-#EXTINF: -1 group-title="Ungrouped", Animal PLanet
-http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 #EXTINF: -1 group-title="Ungrouped", GMA 7
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
 #EXTINF: -1 group-title="Ungrouped", GTV
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
 #EXTINF: -1 group-title="Ungrouped", KAPAMILYA
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
-#EXTINF: -1 group-title="Ungrouped", A2Z
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
 #EXTINF: -1 group-title="Ungrouped", ABC 5
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/102.m3u8
 #EXTINF: -1 group-title="Ungrouped", PBA RUSH
@@ -19,6 +15,8 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
 #EXTINF: -1 group-title="Ungrouped", GMA NEWS TV
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
+#EXTINF: -1 group-title="Ungrouped", CINEMO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
 #EXTINF: -1 group-title="Ungrouped", CINEMA 1
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
 #EXTINF: -1 group-title="Ungrouped", PBO
@@ -33,16 +31,12 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
 #EXTINF: -1 group-title="Ungrouped", DISNEY
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
-#EXTINF: -1 group-title="Ungrouped", CINEMO
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
 #EXTINF:-1, History
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
 #EXTINF:-1,NATGEO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
 #EXTINF:-1,Discovery Channel US
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
-#EXTINF: -1 group-title="Ungrouped", NAT GEO
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
 #EXTINF: -1 group-title="Ungrouped", IBC 13
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/98.m3u8
 #EXTINF: -1 group-title="Ungrouped", PTV
@@ -67,8 +61,6 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/119.m3u8
 #EXTINF: -1 group-title="Ungrouped", AXN
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/121.m3u8
-#EXTINF: -1 group-title="Ungrouped", SOLAR CHANNEL
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/123.m3u8
 #EXTINF: -1 group-title="Ungrouped", PINOY XTREME
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/124.m3u8
 #EXTINF: -1 group-title="Ungrouped", ANIMAX
