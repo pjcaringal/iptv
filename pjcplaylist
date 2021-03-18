@@ -11,8 +11,6 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/102.m3u8
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
 #EXTINF: -1 group-title="Ungrouped", One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", PBA RUSH
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
 #EXTINF: -1 group-title="Ungrouped", JEEPNEY TV
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
 #EXTINF: -1 group-title="Ungrouped", GMA NEWS TV
